@@ -135,7 +135,7 @@ interpretability — outperforming the baseline by **21% lower RMSE**.
 
 <div align="center">
 
-<img src="outputs/images/drought_index_map_.jpeg" alt="Drought Index Map" width="480"/>
+<img src="outputs/images/drought_index_map.jpeg" alt="Drought Index Map" width="480"/>
 
 <sub> Drought Index map (2019) — darker red indicates higher drought severity.
 
